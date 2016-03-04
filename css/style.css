@@ -1,0 +1,60 @@
+.container-fluid {
+	background-color: #f9f9f9;
+}
+
+p {
+	font-size: 70px; 
+	font-family: 'Dosis', sans-serif;
+}
+
+h3 {
+	font-family: 'Dosis';
+	font-style: italic;
+	
+}	
+
+.span7 {
+	background-color: #c6bca7; 
+	margin-top: 40px; 
+	margin-left: 70px;
+	margin-right: 70px;
+	border-radius: 10px; 
+	/*border: 1px solid black;  */
+}
+
+img {
+	border: 2px solid white;
+	padding: 10px;
+	margin: 50px 10px 10px 20px;
+}
+
+#image {
+	border-radius: 15px; 
+	background-color: white;
+	margin: 50px 100px 50px 100px;
+	padding: 10px;
+}
+
+li {    
+    vertical-align: middle;
+    text-align: left;
+    font-style: italic;*/
+    padding: 1em 0 1em 0;*/
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px; 
+    margin-bottom: 10px; 
+    /*display: table-row;*/
+}
+	
+ul{
+	margin-bottom: 5px; 
+}
+
+h4{
+	text-align: center; 
+	background-color: #f9f9f9;
+}
+
+.offset2 {
+  margin: 20px 240px 50px 240px;
+}
