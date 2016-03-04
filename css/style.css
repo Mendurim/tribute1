@@ -9,9 +9,13 @@ p {
 
 h3 {
 	font-family: 'Dosis';
-	font-style: italic;
-	
+	/*font-style: italic;	*/
 }	
+
+h1 {
+	font-family: 'Dosis';
+	font-style: italic;
+}
 
 .span7 {
 	background-color: #c6bca7; 
@@ -57,4 +61,8 @@ h4{
 
 .offset2 {
   margin: 20px 240px 50px 240px;
+}
+
+#contact {
+	margin-bottom: 10px; 
 }
